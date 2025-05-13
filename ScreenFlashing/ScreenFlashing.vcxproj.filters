@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.c">
+    <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ScreenFlashing.h">
+    <ClInclude Include="screen_flashing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
