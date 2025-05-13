@@ -6,7 +6,7 @@ Compatibilty: Windows XP and above, 32-bit or 64-bit, on all versions.
 
 Author: Ali Diaa */
 
-#include "ScreenFlashing.h"
+#include "screen_flashing.h"
 
 HWND hwnd;
 HDC hdc;
